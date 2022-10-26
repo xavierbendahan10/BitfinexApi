@@ -43,7 +43,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#installation">Run</a></li>
+        <li><a href="#run">Run</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -151,6 +151,8 @@ then this project and then the project will be running in..[http://localhost:300
 ## Contact
 
 Xavier Bendahan - xavierbendahan@gmail.com
+
+Linkedin - [https://www.linkedin.com/in/xavier-bendahan](https://www.linkedin.com/in/xavier-bendahan-a46858a6/)
 
 Project Link: [https://github.com/xavierbendahan10/BitfinexApi](https://github.com/xavierbendahan10/BitfinexApi)
 
