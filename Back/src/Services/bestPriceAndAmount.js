@@ -1,6 +1,6 @@
 const ws = require('ws');
 
-async function response (res,result)  {
+async function bestPriceAndAmountService (res,result)  {
   return await bestPriceAndAmount(res,result);
 }
 
@@ -57,4 +57,4 @@ async function  bestPriceAndAmount (res , result)  {
 }
 
 
-module.exports = {bestPriceAndAmount ,response};
+module.exports = {bestPriceAndAmount ,bestPriceAndAmountService};
