@@ -1,0 +1,38 @@
+{
+  "name": "Market Status API Rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -L",
+    "test": "mocha -w ./tests/**/*.spec.js"
+  },
+  "author": "Victoria Coronado <vcoronadoasm@gmail.com>",
+  "license": "ISC",
+  "engines": {
+    "node": "^18.10.0",
+    "npm": "^8.19.2"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "flatten": "^1.0.3",
+    "morgan": "^1.10.0",
+    "node": "^18.10.0",
+    "node-fetch": "^3.2.10",
+    "nodemon": "^2.0.20",
+    "npm": "^8.19.2",
+    "socket.io": "^4.5.2",
+    "websocket": "^1.0.34",
+    "websockets": "^0.2.0",
+    "ws": "^8.9.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.14",
+    "@types/ws": "^8.5.3",
+    "typescript": "^4.8.4"
+  }
+}
