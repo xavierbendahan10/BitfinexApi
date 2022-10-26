@@ -1,0 +1,51 @@
+.WeTitle{
+ font-size: 4rem;
+
+text-align: left;
+height:13vh;
+line-height: 10vh;
+color: #ffffff;
+background: #ffffff;
+  font-family: 'Niconne', cursive;
+font-weight: 700;
+text-shadow: 5px 5px 0px #eb452b, 
+         10px 10px 0px #efa032, 
+         15px 15px 0px #46b59b, 
+         20px 20px 0px #017e7f, 
+         25px 25px 0px #052939, 
+         30px 30px 0px #c11a2b, 
+         35px 35px 0px #c11a2b, 
+         40px 40px 0px #c11a2b, 
+         45px 45px 0px #c11a2b;
+}
+
+/* CSS */
+.button-54 {
+font-family: "Open Sans", sans-serif;
+font-size: 16px;
+letter-spacing: 2px;
+text-decoration: none;
+text-transform: uppercase;
+color: #000;
+cursor: pointer;
+border: 3px solid;
+padding: 0.25em 0.5em;
+box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+position: relative;
+margin-left: 10%;
+user-select: none;
+-webkit-user-select: none;
+touch-action: manipulation;
+}
+
+.button-54:active {
+box-shadow: 0px 0px 0px 0px;
+top: 5px;
+left: 5px;
+}
+
+@media (min-width: 768px) {
+.button-54 {
+ padding: 0.25em 0.75em;
+}
+}
