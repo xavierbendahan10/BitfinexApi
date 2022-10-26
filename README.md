@@ -43,6 +43,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#installation">Run</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -108,11 +109,18 @@ _Below is an example of how you can instruct your audience on installing and set
 
 To run the Backend follow these steps...
 
-1. cd Back 
-
-2. npm i
-
-3. npm start
+1. Open folder Back 
+   ```sh
+   cd Back
+   ```
+2. install all dependences
+   ```sh
+   npm i
+   ```
+3. run the project
+   ```sh
+   npm start
+   ```
 
 then this project and then the project will be running in.. [http://localhost:8000](http://localhost:8000)
 
@@ -120,11 +128,18 @@ then this project and then the project will be running in.. [http://localhost:80
 
 To run the Front-end follow these steps...
 
-1. cd Front 
-
-2. npm i
-
-3. npm start
+1. Open folder Front 
+   ```sh
+   cd Front
+   ```
+2. install all dependences
+   ```sh
+   npm i
+   ```
+3. run the project
+   ```sh
+   npm start
+   ```
 
 then this project and then the project will be running in..[http://localhost:3000](http://localhost:3000)
 
